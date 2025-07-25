@@ -1,2 +1,2 @@
-# spendflow-release
-Release Branch of my React Native application.
+# SpendFlow-release
+Release Branch of SpendFlow
